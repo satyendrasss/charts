@@ -1,0 +1,2 @@
+# charts
+static charts
